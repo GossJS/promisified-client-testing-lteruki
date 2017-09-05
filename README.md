@@ -1,5 +1,7 @@
 # promisified-client-testing
-a task for promisified promise testing
+
+
+Лабораторная работа по промисифицированному безголовому тестированию клиентского веб-приложения:
 
 https://kodaktor.ru/g/lr_yandextestclick
 
