@@ -1,2 +1,6 @@
 # promisified-client-testing
-a taks for promisified promise testing
+a task for promisified promise testing
+
+https://kodaktor.ru/g/lr_yandextestclick
+
+
